@@ -1,0 +1,14 @@
+<launch>
+  <node name="lane_detection_node" pkg="lane_detection" type="lane_detection.py" output="screen">
+    <param name="use_gpu" value="true"/>
+    <param name="model_path" value="/home/minkiri/catkin_ws/src/lane_detection/src/Ultrafast_Lane_Detection_Inference_Pytorch/models/tusimple_18.pth"/>
+    <param name="model_type" value="TUSIMPLE"/>
+    <param name="video_path" value="/home/minkiri/lane_video.mp4"/> 
+
+
+    <!-- <remap from="/camera/image_raw" to="/usb_cam_low/image_raw"/> -->
+
+    <remap from="/lane_detection/output_image" to="/lane_detection/output_image"/>
+  </node>
+</launch>
+
