@@ -5,8 +5,7 @@
 
 <br>
 
-2. Download pretrained model in models(UltraFastLaneDetection_ROS/src/Ultrafast_Lane_Detection_Inference_Pytorch
-/models) folder.
+2. Download pretrained model in models folder.
     - Check readme.txt in models folder.
 
 <br>
