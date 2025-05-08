@@ -5,8 +5,17 @@
 
 <br>
 
-2. download pretrained model in models folder.
-    - **output**: rqt_image_view
-    - **run**: `rosrun vignetting_correation test.py`
+2. Download pretrained model in models(UltraFastLaneDetection_ROS/src/Ultrafast_Lane_Detection_Inference_Pytorch
+/models) folder.
+    - Check readme.txt in models folder.
+
+<br>
+
+3. Change file paths and topics to suit your settings.
+
+<br>
+
+4. run
+   - `roslaunch lane_detection lane_detection.launch`
 
 <br>
