@@ -22,4 +22,4 @@
 
 **Computer Performance**
 - Intel core i7
-- Nvidia GeForce 3050Ti laptop, 8GB
+- NVIDIA GeForce 3050Ti laptop, 8GB
