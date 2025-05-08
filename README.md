@@ -1,6 +1,6 @@
 **Ultra Fast Lane Detection ROS**
 
-1. git clone repository in your workspace
+1. Git clone repository in your workspace
     - `git clone https://github.com/minkiri/UltraFastLaneDetection_ROS.git`
 
 <br>
@@ -15,7 +15,7 @@
 
 <br>
 
-4. run
+4. Run
    - `catkin_make`
    - `source devel/setup.bash`
    - `roslaunch lane_detection lane_detection.launch`
