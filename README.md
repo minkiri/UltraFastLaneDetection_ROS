@@ -16,6 +16,8 @@
 <br>
 
 4. run
+   - `catkin_make`
+   - `source devel/setup.bash`
    - `roslaunch lane_detection lane_detection.launch`
 
 <br>
