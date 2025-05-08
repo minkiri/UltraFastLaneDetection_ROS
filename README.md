@@ -1,7 +1,7 @@
 **Ultra Fast Lane Detection ROS**
 
 1. git clone repository in your workspace
-    - **output**: parameters1.txt`
+    - **output**: `parameters1.txt`
 
 <br>
 
