@@ -1,11 +1,11 @@
 **Ultra Fast Lane Detection ROS**
 
 1. git clone repository in your workspace
-    - **output**: `parameters1.txt`
+    - `git clone https://github.com/minkiri/UltraFastLaneDetection_ROS.git`
 
 <br>
 
-2. Modify a, b, and c in test.py with the parameters shown.
+2. download pretrained model in models folder.
     - **output**: rqt_image_view
     - **run**: `rosrun vignetting_correation test.py`
 
